@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+  color: white;
+  text-align: start;
+  background-color: gray;
+}
+
+th {
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+tbody {
+  background-color: #232328;
+}
+
+td {
+  padding: 20px;
+}
